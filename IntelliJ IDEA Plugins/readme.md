@@ -1,0 +1,1 @@
+https://plugins.jetbrains.com/plugin/7575?pr=idea
